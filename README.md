@@ -47,7 +47,7 @@ visibility, and security posture.
 ---
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?shayan-liaquat=shayan-liaquat&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shayan-liaquat&show_icons=true&theme=dark)
 
 ---
 
