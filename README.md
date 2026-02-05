@@ -46,11 +46,6 @@ visibility, and security posture.
 
 ---
 
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shayan-liaquat&show_icons=true&theme=dark)
-
----
-
 ### 📫 Connect With Me
 - LinkedIn: https://linkedin.com/in/shayan-liaquat/
 - Email: shayanliaquat09@gmail.com
